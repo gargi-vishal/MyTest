@@ -1,4 +1,11 @@
 Notes on Chapter 1
 =====================
-Flexible vs Inflexible models
+Flexible vs Inflexible models:
+---------------------------------------
+Suppose we have a set of observations (or predictors) and we come up with a model that goes through every single one of these observations (like a very squiggly curve) 
+then that would be considered a very flexible model. But would be plagued with overfitting.
 
+But if we just draw a straight line some place in the middle of these observations (linear regression), then further predictions would also only lie on this line. So this is considered inflexible. 
+
+Bias Variance trade-off:
+---------------------------------------
